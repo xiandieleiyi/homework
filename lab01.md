@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: homework
+---
 
 # homework
 ## 1.computer
