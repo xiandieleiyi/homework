@@ -1,7 +1,4 @@
----
-layout: default
-title: 请将标题写在这里
----
+
 
 # homework
 ## 1.computer
