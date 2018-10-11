@@ -48,3 +48,6 @@ Construct 2 is a powerful ground breaking HTML5 game creator designed specifical
 ## 七.为游戏添加难度
 至此，一个简单粗糙的游戏就完成了。在此基础上，我们可以通过再添加一些事件，或改变一些事件的条件或结果来增加游戏的难度和趣味性。例如：提高怪物的智慧；定时产出新的怪物；增加计分规则并显示分数......
 ## 八.我的成品展示
+![](images\动画1.gif)
+![](images\动画2.gif)
+![](images\动画3.gif)
