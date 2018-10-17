@@ -23,3 +23,4 @@
 #### CIELAB模型最重要的属性之一是，对于给定的白点，它是与设备无关的——它定义与如何创建或显示颜色无关的颜色。当用于打印的图形必须从RGB转换为CMYK时，通常使用CIELAB颜色空间，因为CIELAB色域包括RGB和CMYK颜色模型的色域。
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Example_of_LAB_color_enhancement.jpg/1199px-Example_of_LAB_color_enhancement.jpg)
 #### 不像RGB和CMYK彩色模特，实验室颜色是为了接近人类的视觉而设计的。它渴望感知的一致性L组件与人类对轻盈的感知紧密匹配，尽管它没有Helmholtz-Kohlrausch效应考虑在内。因此，它可以通过修改输出来进行精确的色彩平衡校正。曲线在.。a和b组件，或使用L组件。在RGB或CMYK空间中，它们模拟物理设备的输出，而不是人类的视觉感知，只有在适当的帮助下才能完成这些转换。混合模式在编辑应用程序中。
+s
