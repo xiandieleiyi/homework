@@ -1,4 +1,4 @@
-# 制作 HTML5 游戏
+# 设计 HTML5 游戏
 ## 一.安装Construct 2
 Construct 2 is a powerful ground breaking HTML5 game creator designed specifically for 2D games. It allows anyone to build games — no coding required!
 ## 二.新建工程
