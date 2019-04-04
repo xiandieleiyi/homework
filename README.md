@@ -1,1 +1,1 @@
-![](images\img_0035.ipg)
+![](images\img_0035.jpg)
