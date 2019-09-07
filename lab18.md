@@ -1,1 +1,0 @@
-![](images\img_0035.jpg)
